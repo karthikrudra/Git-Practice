@@ -1,2 +1,7 @@
 karthik Rudra
+<<<<<<< FB1
+
+ll
+=======
 kr
+>>>>>>> main
